@@ -1,0 +1,8 @@
+Up Arrow
+FF629D
+Down Arrow
+FFA857
+Left Arrow
+FF22DD
+Right Arrow
+FFC23D
